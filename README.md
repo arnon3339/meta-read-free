@@ -10,7 +10,6 @@
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -59,7 +58,3 @@ This command will build and install the package in your local Python environment
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the [choose your license]. See the [LICENSE](LICENSE) file for more details.
